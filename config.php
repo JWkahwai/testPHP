@@ -3,7 +3,7 @@ $servername ="staffdb.cpgv8rvwzl4n.us-east-1.rds.amazonaws.com";
 $username ="aws_user";
 $password ="Bait3273";
 $dbname ="staffdb";
-$custombucket = "kongkahwai-bucket";
+$custombucket = "kongkahwai-staffdb";
 $customregion = "us-east-1";	
 
 //Create connection
